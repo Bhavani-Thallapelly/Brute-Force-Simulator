@@ -6,7 +6,7 @@ This project is an educational Brute Force Attack Simulator built using Python, 
 
 ## Dashboard Screenshot
 
-*(The screenshot will be added after uploading the image.)*
+![Dashboard](static/images/brute-force-dashboard.png)
 
 ## Features
 
