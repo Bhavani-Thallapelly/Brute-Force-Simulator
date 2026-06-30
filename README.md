@@ -1,5 +1,10 @@
 # 🔐 Brute Force Attack Simulator
 
+## Intern Details
+- **Name:** Bhavani Thallapelly
+- **Intern ID:** CITS2673
+- **Organization:** CodeTech IT Solutions
+
 ## Overview
 
 This project is an educational Brute Force Attack Simulator built using Python, Flask, HTML, CSS, and JavaScript. It demonstrates how a brute force attack works by trying different password combinations until the correct password is found in a safe, local environment.
